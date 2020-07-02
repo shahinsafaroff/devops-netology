@@ -1,0 +1,11 @@
+ ####Промежуточные директории и файлы с расщирениями указанные внизу будут проигнорированы в будущем благодаря добавленному
+####"**/.terraform/*"
+####"*.tfstate"
+####"*.tfstate.*"
+####"crash.log"
+####"override.tf"
+####override.tf.json"
+####*_override.tf"
+####*_override.tf.json"
+####.terraformrc"
+####terraform.rc"
